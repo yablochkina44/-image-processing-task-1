@@ -1,0 +1,10 @@
+C:\Users\nnatu\source\repos\обработка изображений 1\bin\Debug\обработка изображений 1.exe.config
+C:\Users\nnatu\source\repos\обработка изображений 1\bin\Debug\обработка изображений 1.exe
+C:\Users\nnatu\source\repos\обработка изображений 1\bin\Debug\обработка изображений 1.pdb
+C:\Users\nnatu\source\repos\обработка изображений 1\obj\Debug\обработка изображений 1.csprojAssemblyReference.cache
+C:\Users\nnatu\source\repos\обработка изображений 1\obj\Debug\обработка_изображений_1.Form1.resources
+C:\Users\nnatu\source\repos\обработка изображений 1\obj\Debug\обработка_изображений_1.Properties.Resources.resources
+C:\Users\nnatu\source\repos\обработка изображений 1\obj\Debug\обработка изображений 1.csproj.GenerateResource.cache
+C:\Users\nnatu\source\repos\обработка изображений 1\obj\Debug\обработка изображений 1.csproj.CoreCompileInputs.cache
+C:\Users\nnatu\source\repos\обработка изображений 1\obj\Debug\обработка изображений 1.exe
+C:\Users\nnatu\source\repos\обработка изображений 1\obj\Debug\обработка изображений 1.pdb
